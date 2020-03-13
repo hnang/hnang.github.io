@@ -1,0 +1,44 @@
+@charset "UTF-8";
+.top{
+height:100px;
+width:100%;
+background: url("../../Image/stone1.jpg");
+background-size: 100% 100%;
+}
+ul,li
+{
+list-style-type:none;
+margin:0;
+padding:0;
+float:left;
+}
+a:visited,a:link
+{
+display:block;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#bebebe;
+width:120px;
+text-align:center;
+padding:4px;
+text-decoration:none;
+}
+a:hover,a:active
+{
+background-color:#cc0000;
+}
+.Navigation{
+margin-right:20px;
+}
+.container{
+margin:auto 0px ;
+}
+.mainContent{
+display:block;
+margin-left:0 auto;
+width:100%;
+height:auto;
+}
+.myframe{
+	width:100%;
+}
